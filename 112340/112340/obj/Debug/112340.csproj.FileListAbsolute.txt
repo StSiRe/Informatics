@@ -1,5 +1,0 @@
-D:\112340\112340\bin\Debug\112340.exe
-D:\112340\112340\bin\Debug\112340.pdb
-D:\112340\112340\obj\Debug\112340.csprojResolveAssemblyReference.cache
-D:\112340\112340\obj\Debug\112340.exe
-D:\112340\112340\obj\Debug\112340.pdb

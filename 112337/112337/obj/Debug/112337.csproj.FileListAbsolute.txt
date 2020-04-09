@@ -1,7 +1,0 @@
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\bin\Debug\112337.exe.config
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\bin\Debug\112337.exe
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\bin\Debug\112337.pdb
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\obj\Debug\112337.csprojAssemblyReference.cache
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\obj\Debug\112337.csproj.CoreCompileInputs.cache
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\obj\Debug\112337.exe
-C:\Users\Фтвн\Documents\Visual Studio 2017\Projects\112337\112337\obj\Debug\112337.pdb
